@@ -9,32 +9,32 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
   <table bordercolor="#66b2b2">
   <tr>
      <td width="33%" valign="top">
-      <h3>PinIt :pushpin:</h3>
+      <h3>Vita :camera:</h3>
         <br />
-        <p><a href="https://github.com/Mhawkins28/PinIt-Frontend">Repo</a> | <a href="https://jmmz-ga-p3places-ui.herokuapp.com/">Live App</a></p>
+        <p><a href="https://github.com/hummingbirdcreative/Vita-App">Repo</a> | <a href="https://vita-life-story.herokuapp.com/">Live App</a></p>
         <br />
-            <img src="https://media.giphy.com/media/PRtLcJGaijlZJrj8qY/giphy.gif" width="100%" alt="PinIt"/>
+            <img src="https://i.imgur.com/g97RV6k.png" width="100%" alt="Vita"/>
         </a>
-       <p> <br><br><br>A full-stack MERN, social app where users can see a map consisting of people’s favorite places. These places are pins that users can select and add to their profile. Pins are categorized by cities, so users will have profile pages that list their pins.</p>
+       <p> <br><br><br>Group project using Python, Django, SQL, and AWS to create a photo sharing app. In which I acted as the backend developer.</p>
     </td>
-    <td width="33%" valign="top">
-      <h3>Board Game Strategist :game_die:</h3>
+  <td width="33%" valign="top">
+      <h3>Record Crate 🎵</h3>
         <br />
-        <p><a href="https://github.com/Mhawkins28/BoardGame_App">Repo</a> | <a href="http://boardgame-strategist-app2.herokuapp.com/auth">Live App</a></p>
+        <p><a href="https://github.com/hummingbirdcreative/Project3-RecordCatalog-FrontEnd-">Repo</a> | <a href="https://record-project.netlify.app/">Live App</a></p>
         <br />
-            <img src="https://media.giphy.com/media/94qPTyXQNGrjgya2jH/giphy.gif" width="100%" alt="PinIt"/>
+            <img src="https://i.imgur.com/5J583XW.png" width="100%" alt="Record Crate"/>
         </a>
-       <p> A full-stack app that allows the user to store all the boardgames in their collection so that they can keep track of them and be ready for any game night or party. There's flexibility to create, edit, or delete games, making this application unique to each user!</p>
+       <p> MERN application using Node.js, MongoDB, Mongoose, Express and React that allows users to keep a catalog of their music records.</p>
     </td>
   </tr>
    <tr>
     <td width="33%" valign="top">
-      <h3>Flashcard App </h3>
+      <h3>Wardrobe Catalog 👗</h3>
         <br />
-        <p><a href="https://github.com/Mhawkins28/Flashcard-App">Repo</a> | <a href="https://mhawkins28.github.io/Flashcard-App/start.html">Live App</a></p>
+        <p><a href="https://github.com/hummingbirdcreative/project2_WardrobeCatalog">Repo</a> | <a href="https://project2wardrobecatalog-production.up.railway.app/users/login">Live App</a></p>
         <br />
-            <img src="https://media.giphy.com/media/oRbtahsjAgGlioPB6L/giphy.gif" width="100%" alt="Map It!"/>
-        <p>A static, frontend flashcard application to assist people with learning and memorizing concepts of a subject, or a set of subjects. This is the beginning of my coding career, and the first app I created.</p>
+            <img src="[https://media.giphy.com/media/oRbtahsjAgGlioPB6L/giphy.gif](https://i.imgur.com/bYQlMgb.png)" width="100%" alt="Wardrobe Catalog"/>
+        <pFull-CRUD application using Node.js, MongoDb, Mongoose, Express, and EJS that allows users to catalog their wardrobe.</p>
   </tr>
 </table>
 <br>
