@@ -33,7 +33,7 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
         <br />
         <p><a href="https://github.com/hummingbirdcreative/project2_WardrobeCatalog">Repo</a> | <a href="https://project2wardrobecatalog-production.up.railway.app/users/login">Live App</a></p>
         <br />
-            <img src="[https://media.giphy.com/media/oRbtahsjAgGlioPB6L/giphy.gif](https://i.imgur.com/bYQlMgb.png)" width="100%" alt="Wardrobe Catalog"/>
+            <img src="https://i.imgur.com/bYQlMgb.png" width="100%" alt="Wardrobe Catalog"/>
         <pFull-CRUD application using Node.js, MongoDb, Mongoose, Express, and EJS that allows users to catalog their wardrobe.</p>
   </tr>
 </table>
