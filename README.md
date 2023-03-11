@@ -46,8 +46,8 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
   
 - 🌍 I'm based in California
 - 👗 I have a degree in fashion design
-- 🔭 I’m currently working on [CraveCraft](https://github.com/hummingbirdcreative/cravecraft-frontend), a MERN app to create and share recipes!
-- 🌱 I’m currently learning more about **Web Accessibility**
+- 🥗 I’m currently working on [CraveCraft](https://github.com/hummingbirdcreative/cravecraft-frontend), a MERN app to create and share recipes!
+- 🦽 I’m currently learning more about **Web Accessibility**
 
 <details>
   <summary>Languages and Tools I use</summary><br>
