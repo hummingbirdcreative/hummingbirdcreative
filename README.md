@@ -15,7 +15,7 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
         <br />
             <img src="https://i.imgur.com/g97RV6k.png" width="100%" alt="Vita"/>
         </a>
-       <p> <br><br><br>Group project using Python, Django, SQL, and AWS to create a photo sharing app. In which I acted as the backend developer.</p>
+       <p><br>Group project using Python, Django, SQL, and AWS to create a photo sharing app. In which I acted as the backend developer.</p>
     </td>
   <td width="33%" valign="top">
       <h3>Record Crate 🎵</h3>
@@ -24,7 +24,7 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
         <br />
             <img src="https://i.imgur.com/5J583XW.png" width="100%" alt="Record Crate"/>
         </a>
-       <p> MERN application using Node.js, MongoDB, Mongoose, Express and React that allows users to keep a catalog of their music records.</p>
+       <p><br>MERN application using Node.js, MongoDB, Mongoose, Express and React that allows users to keep a catalog of their music records.</p>
     </td>
   </tr>
    <tr>
@@ -34,7 +34,7 @@ I started my coding journey at the end of 2021 and soon after, took the leap to 
         <p><a href="https://github.com/hummingbirdcreative/project2_WardrobeCatalog">Repo</a> | <a href="https://project2wardrobecatalog-production.up.railway.app/users/login">Live App</a></p>
         <br />
             <img src="https://i.imgur.com/bYQlMgb.png" width="100%" alt="Wardrobe Catalog"/>
-        <pFull-CRUD application using Node.js, MongoDb, Mongoose, Express, and EJS that allows users to catalog their wardrobe.</p>
+        <p><br>Full-CRUD application using Node.js, MongoDb, Mongoose, Express, and EJS that allows users to catalog their wardrobe.</p>
   </tr>
 </table>
 <br>
